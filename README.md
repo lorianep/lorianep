@@ -25,7 +25,6 @@
 ![terraform](https://img.shields.io/badge/terraform-844FBA?style=STYLE&logo=terraform&logoColor=white) 
 ![kubernetes](https://img.shields.io/badge/kubernetes-26CE5?style=STYLE&logo=kubernetes&logoColor=white) 
 ![python](https://img.shields.io/badge/python-3776AB?style=STYLE&logo=python&logoColor=white) 
-![SKILL](https://img.shields.io/badge/datadog-632CA6?style=STYLE&logo=datadog&logoColor=white) 
 
 
 
@@ -36,4 +35,4 @@ _FavoriteOSes_ ❤️
 
 ### Contact
 
-- ![LinkedIn]([your_linkedin_profile_link](https://www.linkedin.com/in/l-pedrot/))
+- **[LinkedIn]**(https://www.linkedin.com/in/l-pedrot/)
