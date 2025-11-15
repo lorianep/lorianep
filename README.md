@@ -37,4 +37,3 @@ _FavoriteOSes_ ❤️
 
 - **[LinkedIn]**(https://www.linkedin.com/in/l-pedrot/)
 
-- **[ ➡️ CV Interactif (Visualisation & PDF) ](./cv.html)**
